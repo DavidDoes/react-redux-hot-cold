@@ -7,8 +7,8 @@ export default function TopNav(props) {
     <nav>
       <ul className="clearfix">
         <li>
-          <a 
-            href="#what" 
+          <a
+            href="#what"
             className="what"
             aria-label="How to play"
           >
